@@ -13,29 +13,28 @@
 
 
 
-<a href="">
-  <img src="https://us-east-1.graphassets.com/AwCYQkwjSUCbfkm08Ct1Mz/cmcc5xv63nfpn07irxufr2b8z" width="120"/>
+<a href=" ">
+  <img src="https://us-east-1.graphassets.com/AwCYQkwjSUCbfkm08Ct1Mz/cmcc5xv63nfpn07irxufr2b8z" width="100"/>
+</a>
+
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+
+<a href=" ">
+  <img src="https://us-east-1.graphassets.com/AwCYQkwjSUCbfkm08Ct1Mz/cmcc3wze0lx3007irps13e6k3" width="100"/>
 </a>
 
 
-<td width="40"></td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
 
-<a href="">
-  <img src="https://us-east-1.graphassets.com/AwCYQkwjSUCbfkm08Ct1Mz/cmcc3wze0lx3007irps13e6k3" width="120"/>
+<a href=" ">
+  <img src="https://certifications.tcm-sec.com/wp-content/uploads/2024/08/PJPT-1.webp" width="130"/>
 </a>
 
 
-<td width="40"></td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
 
-<a href="">
-  <img src="https://certifications.tcm-sec.com/wp-content/uploads/2024/08/PJPT-1.webp" width="150"/>
-</a>
-
-
-<td width="40"></td>
-
-<a href="">
-  <img src="https://images.theengineeringprojects.com/image/webp/2019/05/General-Overview-of-Cisco-CCNA-Routing-and-Switching-Certification.jpg.webp" width="190"/>
+<a href=" ">
+  <img src="https://images.theengineeringprojects.com/image/webp/2019/05/General-Overview-of-Cisco-CCNA-Routing-and-Switching-Certification.jpg.webp" width="150"/>
 </a>
 
 </p>
