@@ -14,7 +14,7 @@
 
 
 <a href=" ">
-  <img src="https://us-east-1.graphassets.com/AwCYQkwjSUCbfkm08Ct1Mz/cmcc5xv63nfpn07irxufr2b8z" width="100" />
+  <img src="https://us-east-1.graphassets.com/AwCYQkwjSUCbfkm08Ct1Mz/cmcc5xv63nfpn07irxufr2b8z" width="100" align="center" />
 </a>
 
 <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
