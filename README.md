@@ -14,13 +14,13 @@
 
 
 <a href=" ">
-  <img src="https://us-east-1.graphassets.com/AwCYQkwjSUCbfkm08Ct1Mz/cmcc5xv63nfpn07irxufr2b8z" width="100"/>
+  <img src="https://us-east-1.graphassets.com/AwCYQkwjSUCbfkm08Ct1Mz/cmcc5xv63nfpn07irxufr2b8z" width="100" />
 </a>
 
 <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
 
 <a href=" ">
-  <img src="https://us-east-1.graphassets.com/AwCYQkwjSUCbfkm08Ct1Mz/cmcc3wze0lx3007irps13e6k3" width="100"/>
+  <img src="https://us-east-1.graphassets.com/AwCYQkwjSUCbfkm08Ct1Mz/cmcc3wze0lx3007irps13e6k3" width="100" />
 </a>
 
 
