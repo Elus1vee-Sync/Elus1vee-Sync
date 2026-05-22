@@ -7,6 +7,7 @@
 
 </div>
 
+<br>
 
 > 💡 **"El conocimiento es de los pocos bienes que crece cuando se comparte."**
 > 
@@ -14,6 +15,7 @@
 > 
 > He decidido abrir este espacio con una idea simple: aportar mi pequeño granito de arena. Aquí iré subiendo de forma abierta mis laboratorios, scripts de automatización, herramientas y documentación personal. Mi único objetivo es devolverle algo a la comunidad que tanto me ha enseñado y, ojalá, facilitarle un poco el camino a otros apasionados del sector. ¡Siéntete libre de explorar, usar el contenido y colaborar! 🤝🚀
 
+<br>
 
 ## 🎖️ Certifications
 
