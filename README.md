@@ -28,3 +28,17 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="#"><img src="https://images.theengineeringprojects.com/image/webp/2019/05/General-Overview-of-Cisco-CCNA-Routing-and-Switching-Certification.jpg.webp" height="120"/></a>
 </p>
+
+<br>
+
+<p align="center">
+<img src="https://img.shields.io/badge/LPIC--1-Linux%20Professional-black?style=for-the-badge&logo=linux&logoColor=white" style="margin-right: 10px;">
+  
+<a href="https://app.hackthebox.com/public/users/917614" target="_blank">
+  <img src="https://www.hackthebox.eu/badge/image/917614" alt="Hack The Box Profile"></a>
+
+<img src="https://img.shields.io/badge/MTCNA-MikroTik%20Network-enterprise?style=for-the-badge&logo=mikrotik&logoColor=white">
+<p>
+
+
+
