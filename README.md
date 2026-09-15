@@ -28,7 +28,10 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="#"><img src="https://images.theengineeringprojects.com/image/webp/2019/05/General-Overview-of-Cisco-CCNA-Routing-and-Switching-Certification.jpg.webp" height="120"/></a>
   <a href="#"><img src="https://images.credly.com/images/95043c37-e916-4e4e-96ab-06fb66056648/linkedin_thumb_blob"height="120"/></a>
-</p>
+  <a href="#"><img src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.insoftservices.com%2Findex.php%2Fit-it%2Ffortinet-nse-3&ved=0CBYQjRxqFwoTCMCNy5e48JYDFQAAAAAdAAAAABBp&opi=89978449
+</p>"height="120"/></a>
+
+  
 
 <br>
 
