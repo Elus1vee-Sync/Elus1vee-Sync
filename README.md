@@ -29,8 +29,6 @@
   <a href="#"><img src="https://images.theengineeringprojects.com/image/webp/2019/05/General-Overview-of-Cisco-CCNA-Routing-and-Switching-Certification.jpg.webp" height="120"/></a>
   <a href="#"><img src="https://images.credly.com/images/95043c37-e916-4e4e-96ab-06fb66056648/linkedin_thumb_blob"height="120"/></a>
 
-   <a href="#"><img src="https://images.credly.com/images/50cc91fd-d223-4ef0-a512-ab251ba7e812/image.png"height="120"/></a>
-
   
 </p>
 
